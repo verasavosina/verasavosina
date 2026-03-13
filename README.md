@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Verasavosina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=verasavosina&theme=rogue)](https://github.com/verasavosina/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=verasavosina&color=ff69b4&style=for-the-badge)
 <!--
 **verasavosina/verasavosina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
